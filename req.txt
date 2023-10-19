@@ -8,3 +8,5 @@ tqdm
 opencv-contrib-python
 pillow
 scikit-learn
+
+//batch size ko 128 se 100 kia hai
